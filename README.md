@@ -10,6 +10,8 @@ At the highest level of football, small details can shift the outcome of a match
 
 ## Descriptions & Key Messages
 
+This section provides the descriptions and findings derived from each of the four visualisations. The details of each visualisation are as follows:
+
 <img src="./results/1.jpeg" width="100%" height="100%">
 
 ### Visualisation 1
