@@ -8,29 +8,31 @@ At the highest level of football, small details can shift the outcome of a match
 
 ## Questions
 
+[!NOTE]
 What statistics can be used to measure attacking threats to identify key areas for developing tactics in football matches?
 
 ## Descriptions & Key Messages
-### Visualisation 1
 
 <img src="./results/1.jpeg" width="100%" height="100%">
 
-The chart shows the top 10 players with the highest goal contributions. The goals contribution per match was calculated and is represented by the yellow bar. The ranking shift indicates that players who scored more actual goals might achieve this due to having more played time. This concludes that goal contribution per match better reflects a player’s performance, and playing time should be considered when comparing player’s performances.
+### Visualisation 1
 
-### Visualisation 2
+The chart shows the top 10 players with the highest goal contributions. The goals contribution per match was calculated and is represented by the yellow bar. The ranking shift indicates that players who scored more actual goals might achieve this due to having more played time. This concludes that goal contribution per match better reflects a player’s performance, and playing time should be considered when comparing player’s performances.
 
 <img src="./results/2.jpeg" width="100%" height="100%">
 
-In terms of pitch areas, we tried to prove that action in penalty area create more winning chances compared to attacking third area. This was done by comparing the proportion of delivery zones to the number of goal contributions. The visualisation shows that only the proportion of balls delivered to the penalty area is associated with number of goal contributions. The result suggests that attacking threats can be measured by number of ball deliveries into penalty area.
+### Visualisation 2
 
-### Visualisation 3
+In terms of pitch areas, we tried to prove that action in penalty area create more winning chances compared to attacking third area. This was done by comparing the proportion of delivery zones to the number of goal contributions. The visualisation shows that only the proportion of balls delivered to the penalty area is associated with number of goal contributions. The result suggests that attacking threats can be measured by number of ball deliveries into penalty area.
 
 <img src="./results/3.jpeg" width="100%" height="100%">
 
+### Visualisation 3
+
 This visualisation focuses on the influence of total attempts on goal contributions by categorises number of goal contributions into boxes, illustrating the distribution of number of total attempts. The increasing trend indicates that higher total attempts correlate with greater attacking threats. The simplified metric of total attempts can be considered as a good indicator for measuring attacking threats.
 
-### Visualisation 4
-
 <img src="./results/4.jpeg" width="100%" height="100%">
+
+### Visualisation 4
 
 We aimed to identify if there any differences in player’s positioning between player who contributed different number of goals. The visualisation shows nearly the same proportion of time spent in different areas of the pitch regardless of the number of goal contributions. This suggests that time spent in different areas of the pitch have no influence on attacking threats. Therefore, attacking threats cannot be measured by using time spent in specific areas of the pitch.
